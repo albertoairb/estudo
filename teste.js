@@ -27,3 +27,7 @@ var numero1 = '22'
 
   console.log (tube)
 
+  let var2 = 11
+  let var3 = 4
+  console.log (var2+var3)
+

@@ -27,7 +27,7 @@ var numero1 = '22'
 
   console.log (tube)
 
-  let var2 = 11
-  let var3 = 4
+  let var2 = 20
+  let var3 = 30
   console.log (var2+var3)
 

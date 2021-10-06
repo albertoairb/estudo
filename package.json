@@ -2,10 +2,10 @@
   "name": "estudone",
   "version": "1.0.0",
   "description": "",
-  "main": "teste.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "nodemon index.js"
+    "dev": "nodemon index2rota.js"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,7 @@
   "homepage": "https://github.com/albertoairb/estudo#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "node": "^16.10.0",
     "nodemon": "^2.0.13"
   }
 }
